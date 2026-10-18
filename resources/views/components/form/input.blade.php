@@ -1,0 +1,1 @@
+<input {{ $attributes->merge(['type' => 'text'])->class('w-full rounded border border-line bg-canvas px-3 py-2 text-sm text-ink placeholder:text-muted/70 focus:border-accent focus:ring-1 focus:ring-accent focus:outline-none') }}>
